@@ -1,2 +1,0 @@
-# stupidbot
-Hi
